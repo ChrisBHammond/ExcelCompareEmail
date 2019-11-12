@@ -1,0 +1,13 @@
+C:\Users\chris.hammond\source\repos\CompareEmails\CompareEmails\bin\Debug\CompareEmails.exe.config
+C:\Users\chris.hammond\source\repos\CompareEmails\CompareEmails\bin\Debug\CompareEmails.exe
+C:\Users\chris.hammond\source\repos\CompareEmails\CompareEmails\bin\Debug\CompareEmails.pdb
+C:\Users\chris.hammond\source\repos\CompareEmails\CompareEmails\obj\Debug\CompareEmails.csprojAssemblyReference.cache
+C:\Users\chris.hammond\source\repos\CompareEmails\CompareEmails\obj\Debug\CompareEmails.exe
+C:\Users\chris.hammond\source\repos\CompareEmails\CompareEmails\obj\Debug\CompareEmails.pdb
+C:\Project\CompareEmails\CompareEmails\bin\Debug\CompareEmails.exe.config
+C:\Project\CompareEmails\CompareEmails\bin\Debug\CompareEmails.exe
+C:\Project\CompareEmails\CompareEmails\bin\Debug\CompareEmails.pdb
+C:\Project\CompareEmails\CompareEmails\obj\Debug\CompareEmails.csprojAssemblyReference.cache
+C:\Project\CompareEmails\CompareEmails\obj\Debug\CompareEmails.csproj.CoreCompileInputs.cache
+C:\Project\CompareEmails\CompareEmails\obj\Debug\CompareEmails.exe
+C:\Project\CompareEmails\CompareEmails\obj\Debug\CompareEmails.pdb
